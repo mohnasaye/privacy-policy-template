@@ -1,7 +1,3 @@
-# Privacy Policy Template
-
-
-This Privacy Policy Template is covers the general privacy concerns and regulations. I hope you find it useful and a good starting point in compiling your own privacy policy for use on your own website or app. Feel free to add stuff that I haven't added, and remove stuff that you don't like. If there are ways that I can do things better, you should absolutely report issues or send me a pull request because I love them so much.
 
 
 ## What is a Privacy Policy
@@ -17,8 +13,7 @@ Personal data is any kind of data or information that can be considered personal
 
 * First and last name
 * Email address
-* Billing and shipping address
-* Credit card information
+* Phone Number
 * And so on
 
 
@@ -27,12 +22,7 @@ Personal data is any kind of data or information that can be considered personal
 The Privacy Policy is required by law if you collect personal data. One should be provided where your website or app does anything with personal data. A Privacy Policy is required regardless of the type of platform your business operates on or what kind of industry you’re in:
 
 * Website
-* WordPress blog, or any other platform: Joomla, Drupal etc
-* E-commerce store
-* Mobile app: iOS, Android or Windows Phone
-* Facebook app
-* Desktop app
-* Digital product
+* Mobile app: iOS, Android
 
 
 ## How this Privacy Policy Template works
@@ -58,19 +48,4 @@ This Privacy Policy Template is not legal advice, and is no substitute for a rea
 You should also know that this Privacy Policy Template is provided without any warranty, express or implied, to the fullest extent possible.
 
 
-## License
 
-This Privacy Policy Template is licensed under the [GNU General Public License, version 3 (GPLv3)](http://www.gnu.org/licenses/gpl-3.0.html) and is distributed free of charge.
-
-
-## Author
-
-Arthur Garegnyan
-
-* Email: arthurgareginyan@gmail.com
-
-* GitHub: [https://github.com/ArthurGareginyan/](https://github.com/ArthurGareginyan/)
-
-* Website: [http://www.arthurgareginyan.com](http://www.arthurgareginyan.com)
-
-* Donation: [http://www.arthurgareginyan.com/donate.html](http://www.arthurgareginyan.com/donate.html)
